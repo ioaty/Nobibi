@@ -20,7 +20,7 @@
 1. Clone 项目
 
 ```
-git clone https://github.com/seawind8888/Nobibi my-project
+git clone https://github.com/ioaty/Nobibi.git my-project
 ```
 
 2. 安装依赖
