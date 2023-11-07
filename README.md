@@ -27,7 +27,7 @@ git clone https://github.com/ioaty/Nobibi.git frontend
 
 ```
 cd frontend
-npm install 或 yarn
+yarn
 ```
 
 3. 运行项目
